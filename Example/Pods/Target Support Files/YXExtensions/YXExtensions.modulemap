@@ -1,0 +1,6 @@
+framework module YXExtensions {
+  umbrella header "YXExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
